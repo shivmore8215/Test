@@ -4,10 +4,8 @@
 
 int main() {
     int number;
-
     printf("Enter an integer: ");
     scanf("%d", &number);
-
     // Approach 1: Using modulus operator
     if (number % 2 == 0) {
         printf("Approach 1: %d is even.\n", number);
