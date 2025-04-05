@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-// The difference is not showing
+// The Fetch use
 int main() {
     int number;
     printf("Enter an integer: ");
