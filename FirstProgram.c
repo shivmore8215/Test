@@ -1,3 +1,9 @@
+/*
+ * The function determines whether an input integer is even or odd using various approaches including
+   modulus operator, bitwise operators, division, conditional operator, subtraction, and stringrepresentation.
+  
+ * @return The program returns 0, which indicates successful execution and termination of the program.
+ */
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -19,7 +25,7 @@ int main() {
     } else {
         printf("Approach 2: %d is odd.\n", number);
     }
-
+    
     // Approach 3: Using division and multiplication
     if ((number / 2) * 2 == number) {
         printf("Approach 3: %d is even.\n", number);
