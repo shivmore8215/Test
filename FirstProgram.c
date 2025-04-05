@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-// The Fetch use
+// The Fetch not used
 int main() {
     int number;
     printf("Enter an integer: ");
