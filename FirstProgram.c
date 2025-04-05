@@ -7,7 +7,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-// The change
+// The change haha
 int main() {
     int number;
     printf("Enter an integer: ");
